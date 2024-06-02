@@ -1,7 +1,7 @@
 # tests/test_password_protect.py
 
 import pikepdf, string
-from PDF_Password_Protect.py import generate_password
+from ..PDF_Password_Protect import generate_password
 
 def test_generate_password():
     password = generate_password()
