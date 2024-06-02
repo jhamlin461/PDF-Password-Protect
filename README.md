@@ -49,5 +49,3 @@ Feel free to fork this repository and submit pull requests if you'd like to enha
 
 # License
 This project is open-source and available under the MIT License.
-
-Let me know if you have any specific changes you'd like to make to the README!
