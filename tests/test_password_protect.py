@@ -1,6 +1,6 @@
 # tests/test_password_protect.py
 
-import pikepdf
+import pikepdf, string
 from password_protect import generate_password
 
 def test_generate_password():
